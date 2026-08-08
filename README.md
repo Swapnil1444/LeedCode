@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Swapnil1444/LeedCode/tree/master/0007-reverse-integer) |
+| [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
