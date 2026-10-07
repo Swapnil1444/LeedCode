@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Swapnil1444/LeedCode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/Swapnil1444/LeedCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
+| [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0176-second-highest-salary](https://github.com/Swapnil1444/LeedCode/tree/master/0176-second-highest-salary) |
 | [0182-duplicate-emails](https://github.com/Swapnil1444/LeedCode/tree/master/0182-duplicate-emails) |
 | [0196-delete-duplicate-emails](https://github.com/Swapnil1444/LeedCode/tree/master/0196-delete-duplicate-emails) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
