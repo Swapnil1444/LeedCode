@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0027-remove-element](https://github.com/Swapnil1444/LeedCode/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
 | ------- |
@@ -49,4 +51,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/Swapnil1444/LeedCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
