@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/Swapnil1444/LeedCode/tree/master/0035-search-insert-position) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
 | [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swapnil1444/LeedCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0035-search-insert-position](https://github.com/Swapnil1444/LeedCode/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swapnil1444/LeedCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Linked List
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Swapnil1444/LeedCode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
