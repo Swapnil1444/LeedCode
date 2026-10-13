@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Swapnil1444/LeedCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Swapnil1444/LeedCode/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Swapnil1444/LeedCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 ## Database
 |  |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swapnil1444/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Swapnil1444/LeedCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
