@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Swapnil1444/LeedCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swapnil1444/LeedCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Swapnil1444/LeedCode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Swapnil1444/LeedCode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Swapnil1444/LeedCode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Swapnil1444/LeedCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Swapnil1444/LeedCode/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
@@ -78,4 +80,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Swapnil1444/LeedCode/tree/master/0231-power-of-two) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Swapnil1444/LeedCode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
