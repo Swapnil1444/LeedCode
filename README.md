@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Swapnil1444/LeedCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Swapnil1444/LeedCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Swapnil1444/LeedCode/tree/master/0050-powx-n) |
+| [0171-excel-sheet-column-number](https://github.com/Swapnil1444/LeedCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Swapnil1444/LeedCode/tree/master/0231-power-of-two) |
 ## Two Pointers
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0171-excel-sheet-column-number](https://github.com/Swapnil1444/LeedCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Swapnil1444/LeedCode/tree/master/0709-to-lower-case) |
 ## Recursion
