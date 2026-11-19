@@ -33,12 +33,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Swapnil1444/LeedCode/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/Swapnil1444/LeedCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Swapnil1444/LeedCode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Swapnil1444/LeedCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Swapnil1444/LeedCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
 | [0709-to-lower-case](https://github.com/Swapnil1444/LeedCode/tree/master/0709-to-lower-case) |
