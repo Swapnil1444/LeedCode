@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swapnil1444/LeedCode/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Swapnil1444/LeedCode/tree/master/0125-valid-palindrome) |
 | [0171-excel-sheet-column-number](https://github.com/Swapnil1444/LeedCode/tree/master/0171-excel-sheet-column-number) |
 | [0344-reverse-string](https://github.com/Swapnil1444/LeedCode/tree/master/0344-reverse-string) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Swapnil1444/LeedCode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Swapnil1444/LeedCode/tree/master/0234-palindrome-linked-list) |
 ## Ternary Search
 |  |
@@ -90,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Swapnil1444/LeedCode/tree/master/0217-contains-duplicate) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Swapnil1444/LeedCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
